@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
+  // Project metadata and dependencies required for backend functionality, security, and development.
+
   "keywords": [],
   "author": "",
   "license": "ISC",
