@@ -10,6 +10,8 @@ router.post("/", async (req, res) => {
     res.status(500).json(err);
   }
 });
+// Route to fetch all categories from the database. Sends a 200 status with the categories on success, 
+// or a 500 status with an error message if the request fails.
 
 router.get("/", async (req, res) => {
     try {
