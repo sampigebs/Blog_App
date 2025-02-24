@@ -1,3 +1,4 @@
+// Middleware function for authenticating requests using JWT. Verifies the token and allows access if valid.
 const jwt=require("jsonwebtoken")
 const dotenv=require("dotenv").config()
 const authentication=(req,res,next)=>{
