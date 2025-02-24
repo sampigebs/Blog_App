@@ -7,7 +7,7 @@ const Post=require("../models/post.model")
 const { Router } = require("express")
 const authentication = require("../middlewares/authentication")
 
-// SIGNUP
+// SIGNUP HERE
 app.post("/signup",async (req,res)=>{
     let {email,password,username} = req.body
     try{
