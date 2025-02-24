@@ -16,10 +16,7 @@ export default function Sidebar() {
     <div className="sidebar">
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
-        <img
-          src="https://sradhe545.github.io/portfolio/static/media/rss.c84fb04d3671488d4722.jpg"
-          alt=""
-        />
+        
         <p>
         Innovative and efficient solution seeker and a passionate web developer. Excited about building interactive and user-friendly websites. Looking forward to working as a web developer in an organisation that challenges me and helps me to grow.
         </p>

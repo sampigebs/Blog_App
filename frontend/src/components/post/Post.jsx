@@ -32,7 +32,7 @@ export default function Post({_id, categories,title,photo,desc,createdAt}) {
           </Link>
         </span>
         <hr />
-        <span className="postDate">{format(createdAt)}</span>
+       
       </div>
       <p className="postDesc">
        {desc}
