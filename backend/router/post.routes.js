@@ -5,7 +5,7 @@ const Post=require("../models/post.model")
 const authentication = require('../middlewares/authentication')
 
 
-// GET ALL THE POST
+// GET ALL THE POST HERE
 app.get("/all", async (req, res) => {
     const username = req.query.user;
   const catName = req.query.cat;
