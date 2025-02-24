@@ -9,7 +9,9 @@ const multer = require("multer");
 const post=require("./router/post.routes")
 const app= express()
 const path = require("path");
-
+// Middleware setup for parsing JSON data, enabling CORS for cross-origin requests, serving static image files, 
+// and establishing a MongoDB connection using environment variables. Logs a success message if connected, 
+// otherwise catches and logs any errors.
 app.use(express.json())
 app.use(cors())
 app.use("/images", express.static(path.join(__dirname, "/images")));
