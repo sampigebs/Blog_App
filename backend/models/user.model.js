@@ -1,3 +1,4 @@
+// Mongoose schema definition for the User model, outlining the structure of user documents in the database.
 const mongoose=require('mongoose')
 const userSchema=new mongoose.Schema(  {
     username: {
