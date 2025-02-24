@@ -1,3 +1,5 @@
+// Mongoose schema definition for the Post model, specifying the structure of blog post documents with a unique and required title field.
+
 const mongoose = require("mongoose");
 
 const PostSchema = new mongoose.Schema(
