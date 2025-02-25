@@ -1,3 +1,4 @@
+// Settings component allowing users to update their profile information and manage account settings
 import "./settings.css";
 import Sidebar from "../../components/sidebar/Sidebar";
 import { useContext, useState } from "react";
