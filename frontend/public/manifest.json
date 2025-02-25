@@ -1,5 +1,6 @@
 {
   "short_name": "React App",
+   // The short name of your app (displayed on home screen or launcher)
   "name": "Create React App Sample",
   "icons": [
     {
