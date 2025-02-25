@@ -1,3 +1,4 @@
+/* Styling for the posts container with flexible layout, wrapping enabled, and margin spacing */
 .posts{
     flex: 9;
     display: flex;
