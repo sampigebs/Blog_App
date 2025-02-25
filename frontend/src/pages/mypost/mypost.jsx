@@ -1,3 +1,4 @@
+// Mypost component rendering the Header and optionally displaying posts and sidebar
 import React from 'react'
 import Header from '../../components/header/Header'
 
