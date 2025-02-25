@@ -1,3 +1,7 @@
 # https://www.robotstxt.org/robotstxt.html
-User-agent: *
+# Reference link to learn more about robots.txt
+User-agent: 
+# The asterisk (*) means this rule applies to all web crawlers (Googlebot, Bingbot, etc.)*
 Disallow:
+# Since there is no specific path mentioned after "Disallow:", it means no pages are restricted.
+# All pages are accessible to crawlers.
