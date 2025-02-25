@@ -1,3 +1,4 @@
+/* Styles the Single component to display its elements in a flex container */
 .single{
     display: flex;
 }
