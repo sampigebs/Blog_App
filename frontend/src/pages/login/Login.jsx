@@ -1,3 +1,4 @@
+// Login component handling user authentication, state management, and navigation
 import "./login.css";
 import axios from "axios";
 import { useState } from "react";
