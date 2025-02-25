@@ -1,3 +1,4 @@
+// Creating a context for global state management with useReducer and localStorage persistence
 import { createContext,useEffect,useReducer } from "react"
 import Reducer from "./Reducer"
 
