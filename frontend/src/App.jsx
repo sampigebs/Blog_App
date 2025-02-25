@@ -11,6 +11,7 @@ import { Context } from "./context/Context";
 import Mypost from "./pages/mypost/mypost";
 
 function App() {
+  // Extracting 'user' from the Context using useContext hook
   const {user}=useContext(Context)
   console.log(user);
   return (
