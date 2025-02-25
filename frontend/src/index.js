@@ -10,7 +10,7 @@ ReactDOM.render(
       <App />
     </BrowserRouter>
     </ContextProvider>
-   
+   // Rendering the main application inside React's StrictMode for highlighting potential issues
   </React.StrictMode>,
   document.getElementById('root')
 );
