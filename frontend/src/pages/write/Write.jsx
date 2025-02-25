@@ -1,3 +1,4 @@
+// Write component allows users to create a new blog post, handling title and description input.
 import { useContext, useState } from "react";
 import { Context } from "../../context/Context";
 import "./write.css";
