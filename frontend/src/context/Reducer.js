@@ -1,3 +1,4 @@
+// Reducer function to manage authentication and user state, handling login, update, and logout actions
 const Reducer=(state,action)=>{
     switch(action.type){
         case "LOGIN_START":{
