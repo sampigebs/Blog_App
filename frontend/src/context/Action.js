@@ -1,3 +1,5 @@
+// Action creators for authentication and user state management in Redux
+
 export const LoginStart=(userCedentials)=>({
     type:'LOGIN_START'
 })
