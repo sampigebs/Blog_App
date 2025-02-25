@@ -1,3 +1,5 @@
+// Homepage component fetching all blog posts and rendering Header, Posts, and Sidebar components
+
 import { useLocation } from "react-router";
 import Header from "../../components/header/Header";
 import Posts from "../../components/posts/Posts";
