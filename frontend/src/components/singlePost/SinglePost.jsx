@@ -36,6 +36,7 @@ export default function SinglePost() {
       window.location.replace("/");
     } catch (err) {}
   };
+// Sending a PUT request to update the post with authentication token
 
   const handleUpdate = async () => {
     try {
