@@ -1,3 +1,4 @@
+/* Sidebar styling with a flexible layout, background color, rounded corners, and centered content */
 .sidebar {
   flex: 3;
   height: fit-content;
