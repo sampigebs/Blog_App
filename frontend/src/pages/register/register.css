@@ -1,4 +1,5 @@
-//css for register
+/* Styles the Register component to be centered and take up most of the viewport height */
+
 .register {
   height: calc(100vh - 50px);
   display: flex;
