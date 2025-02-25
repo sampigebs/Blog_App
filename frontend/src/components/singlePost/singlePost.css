@@ -1,3 +1,5 @@
+/* Styling for the single post container with flexible layout and padding adjustments */
+
 .singlePost {
   flex: 9;
 }
