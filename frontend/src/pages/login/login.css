@@ -1,3 +1,4 @@
+/* Styling for the login page with a centered layout, background image, and form adjustments */
 .login {
   height: calc(100vh - 50px);
   display: flex;
