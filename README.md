@@ -10,7 +10,7 @@ Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack M
 - User can delete his post as well
 - User can update his post as well
 - User can update his details as well
-- 
+  
 ## Tech Stack ⤵
 
 - [React Js](https://reactjs.org/docs/getting-started.html)
